@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9333e4a8-d8b6-4b2b-911b-8cb5195f4833" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/trunk/PasswordManager_menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/trunk/PasswordManager_menu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trunk/TestPasswordManager.py" beforeDir="false" afterPath="$PROJECT_DIR$/trunk/TestPasswordManager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trunk/data/UserAccount.csv" beforeDir="false" afterPath="$PROJECT_DIR$/trunk/data/UserAccount.csv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="1d2d8438-5d91-42b4-b0c5-de9621a1ff7e" />
+  <component name="ProjectId" id="1jjYV3BgNvqLE0zhQLc3ZqmhCm4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder4" value="4" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder5" value="5" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth0" value="306" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth1" value="306" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth2" value="159" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth3" value="306" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth4" value="178" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth5" value="584" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder3" value="3" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder4" value="4" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder5" value="5" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth0" value="306" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth1" value="306" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth2" value="307" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth3" value="306" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth4" value="307" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth5" value="306" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\laich\Work\CE320\Team_project\trunk" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\laich\Work\CE320\Team_project\trunk\data" />
+      <recent name="C:\Users\laich\Work\CE320\Team_project\sandboxes\cl17286" />
+      <recent name="C:\Users\laich\Work\CE320\Team_project\sandboxes\jw18661\Project_testing\Iteration 2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.PasswordManager_menu">
+    <configuration name="PasswordManager_main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Team_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/trunk" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trunk/PasswordManager_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PasswordManager_menu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Team_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/trunk" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trunk/PasswordManager_menu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for TestPasswordManager.TestPasswordManager.test_account_rows" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Team_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/trunk" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;TestPasswordManager.TestPasswordManager.test_account_rows&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for Test_PasswordManager_main.TestPasswordManager.test_empty" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Team_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/trunk" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Test_PasswordManager_main.TestPasswordManager.test_empty&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in TestPasswordManager.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Team_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/trunk" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/trunk/TestPasswordManager.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.PasswordManager_menu" />
+        <item itemvalue="Python tests.Unittests in TestPasswordManager.py" />
+        <item itemvalue="Python tests.Unittests for Test_PasswordManager_main.TestPasswordManager.test_empty" />
+        <item itemvalue="Python.PasswordManager_main" />
+        <item itemvalue="Python tests.Unittests for TestPasswordManager.TestPasswordManager.test_account_rows" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration useDefault="false">C:\Users\laich\Work\CE320\Team_project</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\laich\Work\CE320\Team_project" />
+          <option name="myCopyRoot" value="C:\Users\laich\Work\CE320\Team_project" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Users\laich\Work\CE320\Team_project" />
+          <option name="myCopyRoot" value="C:\Users\laich\Work\CE320\Team_project" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9333e4a8-d8b6-4b2b-911b-8cb5195f4833" name="Default Changelist" comment="" />
+      <created>1604318988210</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604318988210</updated>
+      <workItem from="1604318989256" duration="841000" />
+      <workItem from="1607439870362" duration="8908000" />
+      <workItem from="1607602044969" duration="9487000" />
+      <workItem from="1607785622901" duration="7577000" />
+      <workItem from="1607872738314" duration="49436000" />
+      <workItem from="1608071296760" duration="29992000" />
+      <workItem from="1608240648704" duration="34817000" />
+      <workItem from="1611169121808" duration="133000" />
+      <workItem from="1614826620267" duration="7051000" />
+      <workItem from="1615156276904" duration="267000" />
+      <workItem from="1637246322958" duration="1572000" />
+      <workItem from="1641994179506" duration="712000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add new button to Create new password tab&#10;Added def categories(): to store password categories">
+      <created>1607609790198</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607609790198</updated>
+    </task>
+    <task id="LOCAL-00002" summary="upload new data file">
+      <created>1607789944821</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607789944821</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Edited TabAccount&#10;Only displaying password with the current user ID&#10;#29 edited the sorting function using ascending order on ID column&#10;Removed UserID column&#10;Removed vertical header&#10;number of table row --&gt; use userID count instead of total entries">
+      <created>1607790367003</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607790367003</updated>
+    </task>
+    <task id="LOCAL-00004" summary="file transfer">
+      <created>1607804592003</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607804592003</updated>
+    </task>
+    <task id="LOCAL-00005" summary="[Driver: Aiden]&#10;[Navigator: Ishita Chabra]&#10;Completed create password UI&#10;Added check password duplicated name and check empty&#10;reset all lineedit after created password">
+      <created>1607888526175</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607888526175</updated>
+    </task>
+    <task id="LOCAL-00006" summary="[Driver: Aiden]&#10;[Navigator: Ishita Chabra]&#10;Completed create password UI&#10;Added check password duplicated name and check empty&#10;reset all lineedit after created password&#10;Ticket #60 coded tested and Implemented">
+      <created>1607888713621</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607888713621</updated>
+    </task>
+    <task id="LOCAL-00007" summary="new test file">
+      <created>1607898046770</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1607898046770</updated>
+    </task>
+    <task id="LOCAL-00008" summary="[Driver: Aiden]&#10;[Navigator: Jaro]">
+      <created>1607974693458</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1607974693458</updated>
+    </task>
+    <task id="LOCAL-00009" summary="[Driver - Ishi]&#10;[Navigator - Aiden]&#10;Bug fix for show hide password">
+      <created>1608073958193</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1608073958193</updated>
+    </task>
+    <task id="LOCAL-00010" summary="new dummy data">
+      <created>1608140774276</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1608140774276</updated>
+    </task>
+    <task id="LOCAL-00011" summary="[Driver: Aiden]&#10;Uploaded search function&#10;Please use the updated dummy data for testing&#10;Search tab needs column header in order to work properly">
+      <created>1608141580630</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1608141580630</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Minor update">
+      <created>1608143565131</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1608143565131</updated>
+    </task>
+    <task id="LOCAL-00013" summary="update password strength checker">
+      <created>1608241235893</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1608241235893</updated>
+    </task>
+    <task id="LOCAL-00014" summary="update password strength checker">
+      <created>1608241279639</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1608241279639</updated>
+    </task>
+    <task id="LOCAL-00015" summary="[Diver: Aiden]&#10;[Navigator: Laura]&#10;adding unittesting for search and create password">
+      <created>1608266973872</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1608266973872</updated>
+    </task>
+    <task id="LOCAL-00016" summary="[Diver: Aiden]&#10;[Navigator: Laura]&#10;adding unittesting for account tab">
+      <created>1608269516190</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1608269516190</updated>
+    </task>
+    <task id="LOCAL-00017" summary="[Diver: Aiden]&#10;[Navigator: Laura]&#10;minor update for create password">
+      <created>1608279521663</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1608279521663</updated>
+    </task>
+    <task id="LOCAL-00018" summary="final update, added some try statement for error handling">
+      <created>1608283077258</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1608283077258</updated>
+    </task>
+    <task id="LOCAL-00019" summary="bug fix">
+      <created>1608283660512</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1608283660512</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add new button to Create new password tab&#10;Added def categories(): to store password categories" />
+    <MESSAGE value="upload new data file" />
+    <MESSAGE value="Edited TabAccount&#10;Only displaying password with the current user ID&#10;#29 edited the sorting function using ascending order on ID column&#10;Removed UserID column&#10;Removed vertical header&#10;number of table row --&gt; use userID count instead of total entries" />
+    <MESSAGE value="file transfer" />
+    <MESSAGE value="[Driver: Aiden]&#10;[Navigator: Ishita Chabra]&#10;Completed" />
+    <MESSAGE value="[Driver: Aiden]&#10;[Navigator: Ishita Chabra]&#10;Completed create password UI&#10;Added check password duplicated name and check empty&#10;reset all lineedit after created password" />
+    <MESSAGE value="[Driver: Aiden]&#10;[Navigator: Ishita Chabra]&#10;Completed create password UI&#10;Added check password duplicated name and check empty&#10;reset all lineedit after created password&#10;Ticket #60 coded tested and Implemented" />
+    <MESSAGE value="new test file" />
+    <MESSAGE value="[Driver: Aiden]&#10;[Navigator: Jaro]&#10;update search tab" />
+    <MESSAGE value="[Driver: Aiden]&#10;[Navigator: Jaro]" />
+    <MESSAGE value="[Driver - Ishi]&#10;[Navigator - Aiden]&#10;Bug fix for show hide password" />
+    <MESSAGE value="new dummy data" />
+    <MESSAGE value="[Driver: Aiden]&#10;Uploaded search function&#10;Please use the updated dummy data for testing&#10;Search tab needs column header in order to work properly" />
+    <MESSAGE value="Minor update" />
+    <MESSAGE value="update password strength checker" />
+    <MESSAGE value="[Diver: Aiden]&#10;[Navigator: Laura]&#10;adding unittesting for search and create password" />
+    <MESSAGE value="[Diver: Aiden]&#10;[Navigator: Laura]&#10;adding unittesting for account tab" />
+    <MESSAGE value="[Diver: Aiden]&#10;[Navigator: Laura]&#10;minor update for create password" />
+    <MESSAGE value="final update, added some try statement for error handling" />
+    <MESSAGE value="bug fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="bug fix" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="262" key="FileChooserDialogImpl" timestamp="1641997207057">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="262" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1641997207057" />
+    <state width="1877" height="299" key="GridCell.Tab.0.bottom" timestamp="1637421083977">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="299" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1637421083977" />
+    <state width="1877" height="299" key="GridCell.Tab.0.center" timestamp="1637421083976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="299" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1637421083976" />
+    <state width="1877" height="299" key="GridCell.Tab.0.left" timestamp="1637421083976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="299" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1637421083976" />
+    <state width="1877" height="299" key="GridCell.Tab.0.right" timestamp="1637421083977">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="299" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1637421083977" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Team_project$Unittests_in_TestPasswordManager_py.coverage" NAME="Unittests in TestPasswordManager.py Coverage Results" MODIFIED="1637246496103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trunk" />
+    <SUITE FILE_PATH="coverage/Team_project$Unittests_for_TestPasswordManager_TestPasswordManager_test_advance_search.coverage" NAME="Unittests for TestPasswordManager.TestPasswordManager.test_advance_search Coverage Results" MODIFIED="1608268701411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trunk" />
+    <SUITE FILE_PATH="coverage/Team_project$Unittests_for_Test_PasswordManager_main_TestPasswordManager_test_create_account.coverage" NAME="Unittests for Test_PasswordManager_main.TestPasswordManager.test_create_account Coverage Results" MODIFIED="1608254464249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trunk" />
+    <SUITE FILE_PATH="coverage/Team_project$GuiUnitTest.coverage" NAME="GuiUnitTest Coverage Results" MODIFIED="1608254696008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trunk" />
+    <SUITE FILE_PATH="coverage/Team_project$Unittests_for_Test_gui_TestPasswordManager_test_label.coverage" NAME="Unittests for Test_gui.TestPasswordManager.test_label Coverage Results" MODIFIED="1608255868132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trunk" />
+    <SUITE FILE_PATH="coverage/Team_project$Unittests_for_TestPasswordManager_TestPasswordManager_test_default_imput.coverage" NAME="Unittests for TestPasswordManager.TestPasswordManager.test_default_imput Coverage Results" MODIFIED="1608265532706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trunk" />
+    <SUITE FILE_PATH="coverage/Team_project$Iteration2PasswordGEN.coverage" NAME="Iteration2PasswordGEN Coverage Results" MODIFIED="1607950707238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sandboxes/jw18661/Project_testing/Iteration 2" />
+    <SUITE FILE_PATH="coverage/Team_project$Unittests_for_Test_gui_TestPasswordManager_test_same_name.coverage" NAME="Unittests for Test_gui.TestPasswordManager.test_same_name Coverage Results" MODIFIED="1608264079914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trunk" />
+    <SUITE FILE_PATH="coverage/Team_project$PasswordManager_function.coverage" NAME="PasswordManager_function Coverage Results" MODIFIED="1608161115056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trunk" />
+    <SUITE FILE_PATH="coverage/Team_project$Unittests_for_TestPasswordManager_TestPasswordManager_test_create_password_button.coverage" NAME="Unittests for TestPasswordManager.TestPasswordManager.test_create_password_button Coverage Results" MODIFIED="1608267476708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trunk" />
+    <SUITE FILE_PATH="coverage/Team_project$Iteration2PasswordGEN_test_aiden.coverage" NAME="Iteration2PasswordGEN_test_aiden Coverage Results" MODIFIED="1607914246089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sandboxes/jw18661/Project_testing/Iteration 2" />
+    <SUITE FILE_PATH="coverage/Team_project$Unittests_for_Test_gui_TestPasswordManager.coverage" NAME="Unittests for Test_gui.TestPasswordManager Coverage Results" MODIFIED="1608264916199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trunk" />
+    <SUITE FILE_PATH="coverage/Team_project$Unittests_for_Test_PasswordManager_main_TestPasswordManager_test_empty.coverage" NAME="Unittests for Test_PasswordManager_main.TestPasswordManager.test_empty Coverage Results" MODIFIED="1637246434076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trunk" />
+    <SUITE FILE_PATH="coverage/Team_project$Unittests_for_TestPasswordManager_TestPasswordManager_test_account_rows.coverage" NAME="Unittests for TestPasswordManager.TestPasswordManager.test_account_rows Coverage Results" MODIFIED="1608269473202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trunk" />
+    <SUITE FILE_PATH="coverage/Team_project$PasswordManager_main.coverage" NAME="PasswordManager_main Coverage Results" MODIFIED="1608282594746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trunk" />
+    <SUITE FILE_PATH="coverage/Team_project$Unittests_for_TestPasswordManager_TestPasswordManager_test_combo_placeholder_text.coverage" NAME="Unittests for TestPasswordManager.TestPasswordManager.test_combo_placeholder_text Coverage Results" MODIFIED="1608268115793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trunk" />
+    <SUITE FILE_PATH="coverage/Team_project$Unittests_in_Test_gui_py.coverage" NAME="Unittests in Test_gui.py Coverage Results" MODIFIED="1608264508657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trunk" />
+    <SUITE FILE_PATH="coverage/Team_project$Unittests_for_TestPasswordManager_TestPasswordManager_test_search_password_switcher.coverage" NAME="Unittests for TestPasswordManager.TestPasswordManager.test_search_password_switcher Coverage Results" MODIFIED="1608265912927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trunk" />
+    <SUITE FILE_PATH="coverage/Team_project$PasswordManager_menu__1_.coverage" NAME="PasswordManager_menu (1) Coverage Results" MODIFIED="1607872765666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sandboxes/cl17286" />
+    <SUITE FILE_PATH="coverage/Team_project$testing1.coverage" NAME="testing1 Coverage Results" MODIFIED="1607893202133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sandboxes/jw18661/Project_testing/Iteration 2" />
+    <SUITE FILE_PATH="coverage/Team_project$Unittests_for_Test_gui_TestPasswordManager_test_default_lineEdit.coverage" NAME="Unittests for Test_gui.TestPasswordManager.test_default_lineEdit Coverage Results" MODIFIED="1608262939657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trunk" />
+    <SUITE FILE_PATH="coverage/Team_project$test.coverage" NAME="test Coverage Results" MODIFIED="1607920344334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sandboxes/cl17286" />
+    <SUITE FILE_PATH="coverage/Team_project$Unittests_for_Test_gui_TestPasswordManager_test_create_password_strengh_checker.coverage" NAME="Unittests for Test_gui.TestPasswordManager.test_create_password_strengh_checker Coverage Results" MODIFIED="1608262945063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trunk" />
+    <SUITE FILE_PATH="coverage/Team_project$PasswordManager_function__1_.coverage" NAME="PasswordManager_function (1) Coverage Results" MODIFIED="1607893081922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sandboxes/jw18661/Project_testing" />
+    <SUITE FILE_PATH="coverage/Team_project$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1607920960379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sandboxes/cl17286" />
+    <SUITE FILE_PATH="coverage/Team_project$Unittests_for_TestPasswordManager_TestPasswordManager_test_default_lineEdit.coverage" NAME="Unittests for TestPasswordManager.TestPasswordManager.test_default_lineEdit Coverage Results" MODIFIED="1608265426128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trunk" />
+    <SUITE FILE_PATH="coverage/Team_project$sql_test.coverage" NAME="sql_test Coverage Results" MODIFIED="1607985600540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sandboxes/cl17286" />
+    <SUITE FILE_PATH="coverage/Team_project$panda_test.coverage" NAME="panda_test Coverage Results" MODIFIED="1608082553800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sandboxes/cl17286" />
+    <SUITE FILE_PATH="coverage/Team_project$PasswordManager_menu.coverage" NAME="PasswordManager_menu Coverage Results" MODIFIED="1637246534043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trunk" />
+    <SUITE FILE_PATH="coverage/Team_project$Unittests_for_TestPasswordManager_TestPasswordManager.coverage" NAME="Unittests for TestPasswordManager.TestPasswordManager Coverage Results" MODIFIED="1608267728780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/trunk" />
+  </component>
+</project>
